@@ -1,0 +1,23 @@
+[
+{
+"type": 1,
+"title": "Oreo clasicas",
+"description": "Rica galleta de chocolate con crema adentro",
+"price": 20.00,
+"image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00762221083366L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+},
+{
+"type": 1,
+"title": "Triki-Trakes",
+"description": "Las clásicas galletas de chispas de chocolate",
+"price": 12.00,
+"image": "https://detqhtv6m6lzl.cloudfront.net/wp-content/uploads/2021/07/7501000140855-1.jpg"
+},
+{
+"type": 2,
+"title": "Pringles Clasicas",
+"description": "Tubo individual de papas pringles con sabor original",
+"price": 22.00,
+"https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00003800084673L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+}
+]
